@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johndoe" alt="johndoe" /></a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifmaamun&show_icons=true&locale=en)
 
 
 
