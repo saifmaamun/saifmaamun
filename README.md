@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/g9bkX7Y/side-shot-code-editor-using-react-js.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/r4S6tYn/rsz-1side-shot-code-editor-using-react-js.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saifur Rahman</h1>
