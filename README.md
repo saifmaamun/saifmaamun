@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Saifur Rahman</h1>
 <h3 align="center">A passionate Mern-stack developer from Bangladesh</h3>
 
@@ -9,7 +11,7 @@
 
 - 🔭 I’m currently working on [Game-Space](https://github.com/saifmaamun/game-space)
 
-- 🌱 I’m currently learning **NextJs & Graphql**
+- 🌱 I’m currently learning **NextJs & GraphQl**
 
 - 👨‍💻 All of my projects are available at [SaifMaamun](https://saif-maamun-portfolio-6f77a5.netlify.app/)
 
