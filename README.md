@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Next JS, PostgreSQL, GraphQl, SQL**
 
-- 👨‍💻 All of my projects are available at [SaifMaamun](https://saif-maamun-portfolio-6f77a5.netlify.app/)
+- 👨‍💻 All of my projects are available at [SaifMaamun](https://saifmaamun.vercel.app/)
 
 - 💬 Ask me about **React, Js**
 
